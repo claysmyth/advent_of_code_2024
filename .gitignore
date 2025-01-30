@@ -1,0 +1,5 @@
+/advent_of_code_2024/target/*
+/advent_of_code_2024/day07a/target/*
+/advent_of_code_2024/day07b/target/*
+
+**/target/**
